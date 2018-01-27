@@ -39,7 +39,7 @@
     <string>Author: Wu Guiduo</string>
    </property>
   </widget>
-  <widget class="QLabel" name="copyrightLabel">
+  <widget class="QLabel" name="sourceLabel">
    <property name="geometry">
     <rect>
      <x>60</x>
@@ -49,7 +49,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Copyright (C) 2017 The Muse Lab</string>
+    <string>https://github.com/wuxx/Converter</string>
    </property>
   </widget>
   <widget class="QLabel" name="imageLabel">
@@ -63,6 +63,19 @@
    </property>
    <property name="text">
     <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="copyrightLabel_2">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>230</y>
+     <width>201</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Copyright (C) 2017 The Muse Lab</string>
    </property>
   </widget>
  </widget>
